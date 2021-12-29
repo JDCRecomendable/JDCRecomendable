@@ -1,10 +1,9 @@
 ```sh
 ~$ whoami
 
-Printing Results...
+I am Jared.
 ```
 
-## Jared Daniel Recomendable
 ### What I Do
 * 💼 Software Developer Intern @ Windcave
 * 🎓 Software Engineering Student @ The University of Auckland
