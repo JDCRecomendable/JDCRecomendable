@@ -5,8 +5,8 @@ I am Jared.
 ```
 
 ### What I Do
-💼 Software Developer Intern @ Windcave  
 🎓 Software Engineering Student @ The University of Auckland  
+💼 Teaching Assistant and Research Assistant @ The University of Auckland  
 👨‍🏫 Coding and Robotics Tutor @ Bestcoder Education
 
 ### What I Know
