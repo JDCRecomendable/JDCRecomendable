@@ -7,7 +7,7 @@ I am Jared.
 ### What I Do
 🎓 Software Engineering Student @ The University of Auckland  
 💼 Teaching Assistant and Research Assistant @ The University of Auckland  
-👨‍🏫 Coding and Robotics Tutor @ Bestcoder Education
+🖥️ Part-Time Software Developer @ Windcave Ltd
 
 ### What I Know
 🖥️ `C++` | `Boost` | `Multithreading` | `Networking` | `RapidJSON`  
