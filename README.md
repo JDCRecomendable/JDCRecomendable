@@ -22,4 +22,4 @@ and more!
 
 ### What I Want
 🌱 To learn new technologies  
-🌐 To connect with people: [LinkedIn](https://linkedin.com/in/jdcr) | [Portfolio](https://JDCRecomendable.github.io)
+🌐 To connect with people: [LinkedIn](https://linkedin.com/in/jdcr) | [Portfolio](https://JDCRecomendable.github.io) | [University](https://profiles.auckland.ac.nz/jrec291)
