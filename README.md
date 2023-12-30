@@ -6,14 +6,16 @@ I am Jared.
 
 ### What I Do
 🎓 Software Engineering Student @ The University of Auckland  
-💼 Teaching Assistant and Research Assistant @ The University of Auckland  
+💼 Research Assistant @ The University of Auckland  
 🖥️ Part-Time Software Developer @ Windcave Ltd
 
 ### What I Know
-🖥️ `C++` | `Boost` | `Multithreading` | `Networking` | `RapidJSON`  
-🐧 `Linux` | `MariaDB` | `MySQL` | `btw I use Arch`  
+🐧 `Linux` | `Docker` | `Bash` | `Zsh` | `MariaDB` | `MySQL` | `btw I use Arch`  
+🌐 `TypeScript` | `JavaScript` | `PHP` | `React` | `Express` | `MongoDB`  
 🤓 `.NET` | `C#` | `Unity3D` | `Windows Forms`  
+🖥️ `Rust` | `C++` | `Boost` | `Multithreading` | `Networking` | `RapidJSON`  
 🐍 `Python` | `Flask` | `Tkinter` | `wxPython`  
+🧰 `Azure` | `GCP` | `Firebase` | `Jira` | `Trello`  
 and more!
 
 ### What I Like
@@ -22,4 +24,4 @@ and more!
 
 ### What I Want
 🌱 To learn new technologies  
-🌐 To connect with people: [LinkedIn](https://linkedin.com/in/jdcr) | [Portfolio](https://JDCRecomendable.github.io)
+🌏 To connect with people: [LinkedIn](https://linkedin.com/in/jdcr) | [Portfolio](https://JDCRecomendable.github.io)
