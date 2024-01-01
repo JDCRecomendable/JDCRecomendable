@@ -15,7 +15,7 @@ I am Jared.
 🤓 `.NET` | `C#` | `Unity3D` | `Windows Forms`  
 🖥️ `Rust` | `C++` | `Boost` | `Multithreading` | `Networking` | `RapidJSON`  
 🐍 `Python` | `Flask` | `Tkinter` | `wxPython`  
-🧰 `Azure` | `GCP` | `Firebase` | `Jira` | `Trello`  
+🧰 `Microsoft Azure` | `Google Cloud Platform` | `Firebase` | `Jira` | `Trello`  
 and more!
 
 ### What I Like
