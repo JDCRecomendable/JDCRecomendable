@@ -5,9 +5,8 @@ I am Jared.
 ```
 
 ### What I Do
-🎓 Software Engineering Student @ The University of Auckland  
-💼 Research Assistant @ The University of Auckland  
-🖥️ Part-Time Software Developer @ Windcave Ltd
+🎓 Doctoral Student @ The University of Auckland  
+💼 Research Assistant @ The University of Auckland
 
 ### What I Know
 🐧 `Linux` | `Docker` | `Bash` | `Zsh` | `MariaDB` | `MySQL` | `btw I use Arch`  
